@@ -1,0 +1,1 @@
+Non vengono chiesti i tipi opachi ma i moduli

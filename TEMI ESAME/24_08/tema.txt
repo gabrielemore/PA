@@ -1,0 +1,31 @@
+1 - Solito esercizio delle 3 funzioni (Iterativa,Ricorsiva e Tail) in cui,
+dato un vettore lungo 10, conti quanti numeri multipli di 3 sono presenti nel vettore
+
+2-RA della funzione che trovi nella cartella ese2
+
+3-Tipi opachi: creare un set decrescente ( nb1: un set non contiene elementi ripetuti
+nb2: decrescente, devi ordinare gli elementi ovvero dal piu grande al piu piccolo).
+
+Creare i seguenti metodi:
+costruttore: dato un array in ingresso ne fa una copia e crea l'oggetto
+unione: dati due oggetti ne crea un terzo dato dall'unione dei due passati come parametri
+print: stampa l'oggetto (l'insieme di numeri).
+cancella: elimina l'oggetto e libera spazio
+
+4-Solito esercizio Initializer List: quando si puo usare? quando si deve usare etc con 
+esempi stack, e heap. Come esempio di base su cui far vedere questa cosa chiedeva una 
+classe zaino con campo peso e una classe Alpinista nei 3 soliti metodi
+
+5-Utilizzando le classi dell'esercizio 4 far vedere l'uso di raw,unique,shared pointer
+spiegando le differenze dell'uno rispetto all'altro
+
+6- Fare l'esercizio 3 in Java usando i Generics e fare delle prove con Integer e Character
+
+7- Uguale a esercizio 7 TE 24_01 (Pietanze,Visitor, Menu etc..)
+
+8- Fare una funzione raddoppia, una funzione somma, una funzione magic f,g -> g(f(x),y)
+tali che f=raddoppia e g=somma e eseguire la funzione in modo da sommare il valore 3 al
+doppio di 4
+Data una lista (1,2,3) applicare una funzione anonima per raddoppiare i valori nella lista
+Appliacare con map-reduce alla lista ottenuta al punto precedente in modo da ottenere la 
+somma degli elementi della lista
